@@ -1,4 +1,4 @@
-# C64-Keyboard-Controlled-Kernal-Switch 6525
+# C64-Keyboard-Controlled-Kernal-Switch 6526
 
 General
 This project is based on the C64 Keyboard Controlled Kernal Switch Rev. 1.0 from Sven Petersen  (github: svenpertersen1965). For additional informations take a look at Sven Petersens github resipository. 
