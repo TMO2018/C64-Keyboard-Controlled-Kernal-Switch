@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 6526KernalSwitcher-rescue)(type Legacy)(uri ${KIPRJMOD}/6526KernalSwitcher-rescue.lib)(options "")(descr ""))
+)

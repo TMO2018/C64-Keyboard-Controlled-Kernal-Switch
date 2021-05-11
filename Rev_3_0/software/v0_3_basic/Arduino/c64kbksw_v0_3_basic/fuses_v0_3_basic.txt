@@ -1,0 +1,8 @@
+C64-keyboard-controlled-kernal-switch-6526
+
+Alternativ (int. Oszillator):
+
+LOW:	0xE2
+HIGH:	0xDE
+EXT.:	0xFD
+
