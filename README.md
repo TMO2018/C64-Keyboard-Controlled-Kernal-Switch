@@ -14,8 +14,8 @@ Disadvantage:
 - if the 6526 is not socketed, it must be unsoldered
 
 
-Rev 1.0: Design based on Sven Petersens C64 Keyboard Controlled Kernal Switch (ATmega with external clock at 16 MHz)
+Rev 1.0: Design based on Sven Petersens C64 Keyboard Controlled Kernal Switch (ATmega with external clock at 16 MHz), 8 kernals
 
-Rev 2.0: Cost-reduced Design (ATmega with internal clock at 8 MHz)
+Rev 2.0: Cost-reduced Design (ATmega with internal clock at 8 MHz), 8 kernals
 
 Rev 3.0: Expansion from 8 to 14 kernals. Based on Rev 2.0.
