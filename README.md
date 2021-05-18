@@ -1,6 +1,6 @@
 # C64-Keyboard-Controlled-Kernal-Switch for 6526
 
-This project is based on the C64 Keyboard Controlled Kernal Switch Rev. 1.0 from Sven Petersen  (github: svenpetersen1965). For additional informations take a look at Sven Petersens github resipository. 
+This project is based on the C64 Keyboard Controlled Kernal Switch Rev. 1.0 from Sven Petersen  (github: svenpetersen1965). For additional informations take a look at Sven Petersens github repository. 
 
 The original kernal switch ist directly connected to the C64 keyboard connector. In my C64 (bread box) with board Assy 250407 the Kernal Switch lies on the fastening screw and other components with the risk of an electrical connection. So I developed an alternative.
 The kernal switch 6526 is an intermediate socket for the 6526 on U1.
